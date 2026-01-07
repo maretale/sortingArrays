@@ -1,6 +1,3 @@
-# sorting-mini-project
-As the name suggests, it's our mini-project for the sorting lab.
-
 Alexander Maret 3 April 2024 Acknowledgements: 
 Sam - helped me figure ot how to create an array of type T, provided some tests in SortTester.java
 CSC 207 Website - provided insructions for MP6
